@@ -1,63 +1,63 @@
 # Infocasas Uruguay Properties Dataset Sample
 
-<h2>A sample dataset of 21,859 records</h2>
+<h2>21,859개 레코드로 구성된 샘플 데이터셋</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.co.kr">
     <img src="https://github.com/luminati-io/Infocasas-Uruguay-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Infocasas Uruguay Properties Dataset Sample** includes **21,859 records** and was extracted using the **Bright Data API**.
+본 **Infocasas Uruguay Properties Dataset Sample**에는 **21,859개 레코드**가 포함되어 있으며 **Bright Data API**를 사용하여 추출되었습니다.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `URL` | The web address of the property listing. |
-| `ID` | Unique identifier for each property listing. |
-| `Imagen` | Links to images of the property listed. |
-| `Descripcion` | Brief description of the property including features and amenities. |
-| `Precio` | The listed price of the property in local currency. |
-| `Ubicacion` | The location details of the property including neighborhood and street. |
-| `Habitaciones` | Number of bedrooms in the property. |
-| `Banos` | Number of bathrooms in the property. |
-| `Dimension_propiedad` | Total area of the property in square meters. |
-| `Dimension_terreno` | Land area of the property in square meters. |
-| `Titulo` | Title of the property listing. |
-| `Phone1` | Primary contact phone number for the property listing. |
-| `Phone2` | Secondary contact phone number for the property listing. |
-| `Email` | Email address for inquiries about the property. |
-| `Seller` | Name of the seller or real estate agent. |
-| `Tipo_de_vendedor` | Type of seller, e.g., agent or owner. |
-| `Estado` | Current state of the property, e.g., available, sold. |
-| `Nueva_usada` | Indicates whether the property is new or used. |
-| `Type` | Type of property, e.g., apartment, house. |
-| `Venta_Arriendo` | Indicates if the property is for sale or rent. |
-| `Region` | Region where the property is located. |
-| `Comuna_Ciudad` | City or commune where the property is located. |
-| `Parqueaderos` | Number of parking spaces available with the property. |
-| `Year` | Year when the property was built or listed. |
-| `Destacado_Superdestacado` | Indicates if the property is featured or highlighted. |
-| `url` | Alternate URL for the property listing. |
-| `seller_id` | Unique identifier for the seller or real estate agent. |
+| `URL` | 부동산 매물 목록의 웹 주소입니다. |
+| `ID` | 각 부동산 매물 목록의 고유 식별자입니다. |
+| `Imagen` | 등록된 부동산의 이미지 링크입니다. |
+| `Descripcion` | 특징 및 편의시설을 포함한 부동산의 간단한 설명입니다. |
+| `Precio` | 현지 통화 기준으로 표시된 부동산의 매물 가격입니다. |
+| `Ubicacion` | 동네 및 도로명을 포함한 부동산의 위치 상세 정보입니다. |
+| `Habitaciones` | 해당 부동산의 침실 수입니다. |
+| `Banos` | 해당 부동산의 욕실 수입니다. |
+| `Dimension_propiedad` | 제곱미터 기준의 부동산 총 면적입니다. |
+| `Dimension_terreno` | 제곱미터 기준의 토지 면적입니다. |
+| `Titulo` | 부동산 매물 목록의 제목입니다. |
+| `Phone1` | 부동산 매물 목록의 기본 연락처 전화번호입니다. |
+| `Phone2` | 부동산 매물 목록의 보조 연락처 전화번호입니다. |
+| `Email` | 부동산 문의를 위한 이메일 주소입니다. |
+| `Seller` | 판매자 또는 부동산 중개인의 이름입니다. |
+| `Tipo_de_vendedor` | 판매자 유형(예: 중개인 또는 소유주)입니다. |
+| `Estado` | 부동산의 현재 상태(예: 판매 가능, 판매 완료)입니다. |
+| `Nueva_usada` | 부동산이 신축인지 중고(기존)인지 여부를 나타냅니다. |
+| `Type` | 부동산 유형(예: 아파트, 주택)입니다. |
+| `Venta_Arriendo` | 부동산이 매매용인지 임대용인지 여부를 나타냅니다. |
+| `Region` | 부동산이 위치한 지역입니다. |
+| `Comuna_Ciudad` | 부동산이 위치한 도시 또는 코무나(행정구역)입니다. |
+| `Parqueaderos` | 부동산에 포함된 주차 공간 수입니다. |
+| `Year` | 부동산이 건축되었거나 등록된 연도입니다. |
+| `Destacado_Superdestacado` | 부동산이 추천/강조 매물인지 여부를 나타냅니다. |
+| `url` | 부동산 매물 목록의 대체 URL입니다. |
+| `seller_id` | 판매자 또는 부동산 중개인의 고유 식별자입니다. |
 
 
 ## Use Cases
 
 ### 1. Real Estate Market Analysis
-Utilize the dataset to analyze property market trends across different regions in Uruguay, aiding investors and realtors in making data-driven decisions.
+데이터셋을 활용하여 우루과이의 다양한 지역 전반에 걸친 부동산 시장 트렌드를 분석함으로써, 투자자와 부동산 전문가가 데이터 기반 의사결정을 내리는 데 도움이 됩니다.
 
 ### 2. Urban Development Research
-Researchers can use the dataset to study urban expansion, housing affordability, and demographic impacts on real estate in Uruguay.
+연구자는 본 데이터셋을 사용하여 도시 확장, 주거비 부담 가능성, 그리고 인구통계학적 요인이 우루과이 부동산에 미치는 영향을 연구할 수 있습니다.
 
 ### 3. Competitive Business Intelligence
-Businesses can leverage this data to understand competitor listings, pricing strategies, and market dynamics, optimizing their own offerings.
+기업은 이 데이터를 활용하여 경쟁사의 매물, 가격 전략, 시장 역학을 파악하고, 자사 제공 서비스를 최적화할 수 있습니다.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+데이터셋은 여러 형식으로 제공됩니다:
+- **CSV**(이 샘플에 포함)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -77,8 +77,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+데이터셋은 다양한 일정으로 업데이트할 수 있습니다:
+- **Once**(일회성 제공)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -87,14 +87,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+특정 요구사항에 따라 추가 데이터 포인트로 데이터셋을 강화할 수 있습니다. 맞춤형 enrichment 옵션에 대해서는 문의해 주시기 바랍니다.
 
-**[Get the full Infocasas Uruguay Properties dataset](https://brightdata.com/products/datasets/real-estate)**
+**[전체 Infocasas Uruguay Properties dataset 받기](https://brightdata.co.kr/products/datasets/real-estate)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiative는 환경 및 사회적 목적을 위해 활동하는 학술 연구자, NGO, NPO에 **[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)** 및 **[즉시 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)**에 대한 무료 액세스를 제공합니다. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+[brightinitiative.com](https://brightinitiative.com)에서 무료 액세스를 신청하시기 바랍니다.
